@@ -3,7 +3,6 @@ This is a Jupyter project demonstrate on classification model training. You may 
 
 Presentation Slide Link: https://docs.google.com/presentation/d/1hGG3yMfugKGOfFKQ-XcSUYOL7bIE1J2XIRnxq0ROVEQ/edit#slide=id.g274072545a7_0_1
 
-## **Introduction**
 ### Dataset Overview
 The data model study below is based on Kaggle open dataset: https://www.kaggle.com/datasets/thedevastator/bank-term-deposit-predictions
 
